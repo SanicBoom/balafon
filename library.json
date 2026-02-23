@@ -58,5 +58,313 @@
     "traditional_mallet_tradm_f5_vl1_rr1": "traditional-mallet/EthnicXylo_tradM_F5_vl1_rr1_Mid.wav",
     "traditional_mallet_tradm_f5_vl2_rr1": "traditional-mallet/EthnicXylo_tradM_F5_vl2_rr1_Mid.wav",
     "traditional_mallet_tradm_f5_vl3_rr1": "traditional-mallet/EthnicXylo_tradM_F5_vl3_rr1_Mid.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "C#3",
+      "sample": "hard_mallet_cs3_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C#3",
+      "sample": "soft_mallet_cs3_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C#3",
+      "sample": "traditional_mallet_tradm_cs3_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C#3",
+      "sample": "hard_mallet_cs3_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C#3",
+      "sample": "soft_mallet_cs3_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C#3",
+      "sample": "traditional_mallet_tradm_cs3_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C#3",
+      "sample": "hard_mallet_cs3_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C#3",
+      "sample": "soft_mallet_cs3_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C#3",
+      "sample": "traditional_mallet_tradm_cs3_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "hard_mallet_f3_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F3",
+      "sample": "soft_mallet_f3_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F3",
+      "sample": "traditional_mallet_tradm_f3_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F3",
+      "sample": "hard_mallet_f3_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F3",
+      "sample": "soft_mallet_f3_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F3",
+      "sample": "traditional_mallet_tradm_f3_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F3",
+      "sample": "hard_mallet_f3_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "soft_mallet_f3_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "traditional_mallet_tradm_f3_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "hard_mallet_c4_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C4",
+      "sample": "soft_mallet_c4_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C4",
+      "sample": "traditional_mallet_tradm_c4_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C4",
+      "sample": "hard_mallet_c4_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C4",
+      "sample": "soft_mallet_c4_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C4",
+      "sample": "traditional_mallet_tradm_c4_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C4",
+      "sample": "hard_mallet_c4_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "traditional_mallet_tradm_c4_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "hard_mallet_f4_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F4",
+      "sample": "traditional_mallet_tradm_f4_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F4",
+      "sample": "hard_mallet_f4_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F4",
+      "sample": "soft_mallet_f4_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F4",
+      "sample": "traditional_mallet_tradm_f4_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F4",
+      "sample": "hard_mallet_f4_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "soft_mallet_f4_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "traditional_mallet_tradm_f4_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "hard_mallet_c5_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C5",
+      "sample": "soft_mallet_c5_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C5",
+      "sample": "traditional_mallet_tradm_c5_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C5",
+      "sample": "hard_mallet_c5_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C5",
+      "sample": "soft_mallet_c5_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C5",
+      "sample": "traditional_mallet_tradm_c5_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C5",
+      "sample": "hard_mallet_c5_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "soft_mallet_c5_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "traditional_mallet_tradm_c5_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "hard_mallet_f5_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F5",
+      "sample": "soft_mallet_f5_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F5",
+      "sample": "traditional_mallet_tradm_f5_vl1_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F5",
+      "sample": "hard_mallet_f5_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F5",
+      "sample": "traditional_mallet_tradm_f5_vl2_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F5",
+      "sample": "hard_mallet_f5_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "soft_mallet_f5_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "traditional_mallet_tradm_f5_vl3_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    }
+  ]
 }
